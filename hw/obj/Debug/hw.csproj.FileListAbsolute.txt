@@ -1,0 +1,21 @@
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\bin\Debug\hw.exe.config
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\bin\Debug\hw.exe
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\bin\Debug\hw.pdb
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\obj\Debug\hw.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\obj\Debug\hw.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\obj\Debug\hw.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\obj\Debug\hw.exe
+c:\users\user\documents\visual studio 2012\Projects\hw\hw\obj\Debug\hw.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\hw\hw\obj\Debug\hw.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\hw\hw\obj\Debug\hw.login.resources
+C:\Users\user\Desktop\hw\hw\bin\Debug\hw.exe.config
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.exe
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.pdb
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.Form1.resources
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.login.resources
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.Properties.Resources.resources
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\hw\hw\bin\Debug\hw.exe
+C:\Users\user\Desktop\hw\hw\bin\Debug\hw.pdb
+C:\Users\user\Desktop\hw\hw\obj\Debug\hw.main_menu.resources
